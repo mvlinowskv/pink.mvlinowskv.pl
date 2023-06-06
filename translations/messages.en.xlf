@@ -53,6 +53,26 @@
         <source>doctor</source>
         <target>Doctor</target>
       </trans-unit>
+      <trans-unit id="hfx46lE" resname="cookies_first">
+        <source>cookies_first</source>
+        <target>We use cookies and other tracking technologies to improve your browsing experience on our site.</target>
+      </trans-unit>
+      <trans-unit id="d0i0eVB" resname="cookies_second">
+        <source>cookies_second</source>
+        <target>By choosing button Accept, you agree to our use of cookies and other tracking technologies.</target>
+      </trans-unit>
+      <trans-unit id="kbWoIf3" resname="cookies_third">
+        <source>cookies_third</source>
+        <target>Or by choosing button Disagree, you will be redirect to previous webiste, which you observe.</target>
+      </trans-unit>
+      <trans-unit id="wSXQOXt" resname="accept">
+        <source>accept</source>
+        <target>Accept</target>
+      </trans-unit>
+      <trans-unit id="MCagykh" resname="deny">
+        <source>deny</source>
+        <target>Disagree</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

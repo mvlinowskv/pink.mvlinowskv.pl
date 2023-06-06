@@ -24,3 +24,31 @@ document.addEventListener('click', function(e) {
         nav.style.transition = 'right 0.4s ease-out';
     }
 })
+
+
+/* cookie */
+
+
+let cookie_btn = document.querySelector('.btn__cookie--accept')
+let section_cookie = document.querySelector('.cookies')
+
+if(cookie_btn != null) {
+    if(document.cookie !== 'consent_cookie=accepted'){
+        cookie_btn.addEventListener('click', function() {
+
+            section_cookie.classList.add('cookies__bottom')
+            document.cookie = "consent_cookie=accepted";
+        })
+
+        document.querySelector('.btn__cookie--deny').addEventListener('click', function(e) {
+            window.history.back();
+        })
+
+    } else {
+        section_cookie.classList.add('cookies__none')
+        section_cookie.classList.remove('cookies__bottom')
+    }
+}
+
+
+

@@ -77,3 +77,55 @@ body {
     display: none;
   }
 }
+
+.cookies {
+  position: fixed;
+  bottom: 0;
+  background: rgb(11 11 11 / 75%);
+  width: 100%;
+  text-align: center;
+  color: #fff;
+  border-top-left-radius: 3rem;
+  border-top-right-radius: 3rem;
+  left: 0;
+  transition: bottom 0.8s ease-out;
+
+  &__container {
+    padding: 2rem;
+  }
+  p {
+    margin-bottom: 0;
+    margin-top: 0.2rem;
+  }
+
+  &__bottom {
+    bottom: -100vh;
+    transition: bottom 0.8s linear;
+  }
+
+  &__none {
+    display: none;
+  }
+}
+
+.btn {
+  &__cookie {
+    outline: 0;
+    border: 0;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    margin-right: 0.5rem;
+    margin-top: 1rem;
+    color: #fff;
+
+    &--accept {
+      border: 1px solid #e86fd7;
+      background: #e86fd7;
+    }
+
+    &--deny {
+      border: 1px solid #e86fd7;
+      background: transparent;
+    }
+  }
+}
