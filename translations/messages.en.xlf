@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="pl" target-language="en" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="mIGAvwy" resname="offer">
+        <source>offer</source>
+        <target>How do we offer?</target>
+      </trans-unit>
+      <trans-unit id="j02QiBI" resname="clients">
+        <source>clients</source>
+        <target>Our clients</target>
+      </trans-unit>
+      <trans-unit id="H29pnHW" resname="dreams">
+        <source>dreams</source>
+        <target>Make dreams come true</target>
+      </trans-unit>
+      <trans-unit id="YRaVQfs" resname="dreams_section">
+        <source>dreams_section</source>
+        <target>Build your dream team with us and make your dreams come true!</target>
+      </trans-unit>
+      <trans-unit id="XPfX7By" resname="lang">
+        <source>lang</source>
+        <target>PL</target>
+      </trans-unit>
+      <trans-unit id="SC668uT" resname="lang_url">
+        <source>lang_url</source>
+        <target>/</target>
+      </trans-unit>
+      <trans-unit id="ukeIsia" resname="green">
+        <source>green</source>
+        <target>Green</target>
+      </trans-unit>
+      <trans-unit id="Fkd2iMD" resname="blue">
+        <source>blue</source>
+        <target>Blue</target>
+      </trans-unit>
+      <trans-unit id="XrZ.n4Q" resname="brown">
+        <source>brown</source>
+        <target>Brown</target>
+      </trans-unit>
+      <trans-unit id="A.uUGAq" resname="cook">
+        <source>cook</source>
+        <target>Chef</target>
+      </trans-unit>
+      <trans-unit id="9i5hCDT" resname="dentist">
+        <source>dentist</source>
+        <target>Dentist</target>
+      </trans-unit>
+      <trans-unit id="cvS_idb" resname="doctor">
+        <source>doctor</source>
+        <target>Doctor</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

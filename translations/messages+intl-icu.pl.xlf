@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="pl" target-language="pl" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="j02QiBI" resname="clients">
+        <source>clients</source>
+        <target>__clients</target>
+      </trans-unit>
+      <trans-unit id="H29pnHW" resname="dreams">
+        <source>dreams</source>
+        <target>__dreams</target>
+      </trans-unit>
+      <trans-unit id="SC668uT" resname="lang_url">
+        <source>lang_url</source>
+        <target>__lang_url</target>
+      </trans-unit>
+      <trans-unit id="XPfX7By" resname="lang">
+        <source>lang</source>
+        <target>__lang</target>
+      </trans-unit>
+      <trans-unit id="mIGAvwy" resname="offer">
+        <source>offer</source>
+        <target>__offer</target>
+      </trans-unit>
+      <trans-unit id="cvS_idb" resname="doctor">
+        <source>doctor</source>
+        <target>__doctor</target>
+      </trans-unit>
+      <trans-unit id="9i5hCDT" resname="dentist">
+        <source>dentist</source>
+        <target>__dentist</target>
+      </trans-unit>
+      <trans-unit id="A.uUGAq" resname="cook">
+        <source>cook</source>
+        <target>__cook</target>
+      </trans-unit>
+      <trans-unit id="ukeIsia" resname="green">
+        <source>green</source>
+        <target>__green</target>
+      </trans-unit>
+      <trans-unit id="Fkd2iMD" resname="blue">
+        <source>blue</source>
+        <target>__blue</target>
+      </trans-unit>
+      <trans-unit id="XrZ.n4Q" resname="brown">
+        <source>brown</source>
+        <target>__brown</target>
+      </trans-unit>
+      <trans-unit id="YRaVQfs" resname="dreams_section">
+        <source>dreams_section</source>
+        <target>__dreams_section</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
