@@ -89,6 +89,7 @@ body {
   border-top-right-radius: 3rem;
   left: 0;
   transition: bottom 0.8s ease-out;
+  z-index: 10;
 
   &__container {
     padding: 2rem;
